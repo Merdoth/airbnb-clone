@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Airbnb Clone
 
 This project was bootstrapped with React.js, React-Router-DOM on the client side and firebase for hosting
 
